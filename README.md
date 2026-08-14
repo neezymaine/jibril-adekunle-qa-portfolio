@@ -111,5 +111,4 @@ I am a QA Automation Engineer focused on software quality, test automation and e
 ## 📫 Connect
 
 - **GitHub:** [neezymaine](https://github.com/neezymaine)
-- **LinkedIn:** Add your LinkedIn profile
-- **Email:** Add your professional email
+- **Email:** (jibril4bi@gmail.com)
