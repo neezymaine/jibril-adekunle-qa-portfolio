@@ -1,34 +1,38 @@
 # Jibril Adekunle — QA Automation Engineer
 
-**Software Quality Assurance · Test Automation · API Testing · Performance Testing · CI/CD**
+> Software Quality Assurance • Test Automation • API Testing • Performance Testing • CI/CD
 
-Welcome to my QA Automation portfolio. This repository contains practical testing and automation work focused on building reliable, maintainable and scalable test solutions.
+Welcome to my QA Automation portfolio. This repository contains practical testing and automation work demonstrating my approach to building reliable, maintainable and scalable test solutions.
 
-## 🚀 Featured Project
+## 🧪 Featured Project
 
 ### Risevest Web Application Automation
 
-A web application automation project built with **Selenium WebDriver, Java, Maven and TestNG**.
+A Selenium WebDriver automation project built with Java, Maven and TestNG. The suite contains **9 automated functional test cases** and uses a TestNG suite for centralized execution and reporting.
 
-The current suite contains **9 automated test cases** that can be executed together through the configured TestNG suite. Test execution results are captured in the project test reports.
-
-**Tech stack**
+**Technology stack**
 
 - Java
 - Selenium WebDriver
 - TestNG
 - Maven
-- Git
+- WebDriverManager
+- ReportNG
+- Apache POI
+- Log4j
 
 **Testing focus**
 
 - Functional UI automation
 - Regression testing
-- End-to-end workflow validation
-- Test suite execution
-- Automated test reporting
+- Login validation and negative scenarios
+- Wallet and plan workflows
+- Externalized locators and configuration
+- Test suite management and reporting
 
-## 🧰 QA & Automation Skills
+[View the Selenium project](./selenium-java-risevest)
+
+## 🛠️ QA & Automation Skills
 
 ### Test Automation
 
@@ -49,7 +53,7 @@ The current suite contains **9 automated test cases** that can be executed toget
 - Apache JMeter
 - k6
 
-### Languages & Test Frameworks
+### Languages & Frameworks
 
 - Java
 - JavaScript
@@ -80,14 +84,14 @@ The current suite contains **9 automated test cases** that can be executed toget
 - User Acceptance Testing
 - CI/CD test automation
 
-## 📐 Automation Approach
+## 📈 Automation Approach
 
 My approach to QA automation focuses on:
 
 1. Identifying high-value and repeatable scenarios for automation.
-2. Building reusable and maintainable test components.
+2. Building maintainable and reusable test components.
 3. Keeping test data, locators and test logic organized.
-4. Covering positive, negative and edge-case scenarios.
+4. Validating both positive and negative scenarios.
 5. Running automated suites through CI/CD pipelines.
 6. Producing clear test results that help teams identify regression risks quickly.
 
