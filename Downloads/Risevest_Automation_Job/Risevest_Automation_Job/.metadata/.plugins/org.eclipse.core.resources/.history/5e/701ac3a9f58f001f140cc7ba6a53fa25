@@ -1,3 +1,0 @@
-emailField=email
-passwordField=password
-submitButton=//button[@type='submit']
